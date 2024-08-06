@@ -1,5 +1,4 @@
 // ******** Auto typing **********
-
 var typed = new Typed(".auto-type",{
     strings : ["Web Developer","Prompt Engineer","AI Chatbot Developer","Video Editor"],
     typeSpeed: 150,
